@@ -11,4 +11,4 @@ b. Number of flights arriving to this airport,
 c. Total number (pieces) of baggage arriving to this airport,  
 d. Total number (pieces) of baggage departing from this airport.  
 
-The results will be in JSON format. Refer to and run the file Application.java for more information.  The data was generated from https://www.json-generator.com/ into 2 files, which are flight.json and cargo.json.
+The results will be in JSON format. The data was generated from https://www.json-generator.com/ into 2 files, which are flight.json and cargo.json. I also used GSON to parse the json strings to java objects. Refer to and run the file Application.java for more information. 
